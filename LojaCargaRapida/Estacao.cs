@@ -5,7 +5,7 @@ namespace LojaCargaRapida
     {
 
         //propriedades (atributos)
-        public string Mototrista { get; set; }
+        public string Motorista { get; set; }
         public double CapacidadeKwh {  get; set; }
         public double PorcentagemAtual { get; set; }
         public double PotenciaKw { get; set; }
